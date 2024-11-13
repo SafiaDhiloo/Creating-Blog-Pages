@@ -46,7 +46,7 @@ export default function blogs() {
                         />
                     </div>
                     <h1 className="title">What Makes A Great Programmer</h1>
-                    <p className="description">Good training is essential for any profession.And to be a computer programmer,it's really..</p>
+                    <p className="description">Good training is essential for any profession.And to be a computer programmer,it is really..</p>
                     <button className="readMore"><Link href={"/box3"}>Read More</Link></button>
                 </div>
 

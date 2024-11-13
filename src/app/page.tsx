@@ -18,7 +18,7 @@ export default function Home() {
               className="flex items-center justify-center shadow-transparent bg-gray-100  p-2 m-auto "
             />
             <p className="text-center font-medium py-2">
-              <span className="text-justify text-xl text-bold text-black">Developer Wellness Hub </span>is here to guide you in creating sustainable, healthy habits that boost your productivity, creativity, and overall happiness.Let's code smarter and live healthier together.
+              <span className="text-justify text-xl text-bold text-black">Developer Wellness Hub </span>is here to guide you in creating sustainable, healthy habits that boost your productivity, creativity, and overall happiness.Let us code smarter and live healthier together.
             </p>
 
           </div>
